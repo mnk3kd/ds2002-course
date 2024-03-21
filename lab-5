@@ -1,0 +1,6 @@
+#!/bin/bash
+
+/usr/bin/yum update -y
+/usr/bin/yum install git -y
+/usr/bin/yum install python3 -y
+/usr/bin/yum install nginx -y
