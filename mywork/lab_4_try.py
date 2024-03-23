@@ -39,5 +39,4 @@ presigned_url = s3.generate_presigned_url(
 
 print("Presigned URL:", presigned_url)
 
-#I have no idea why the importing requests is not working - couold be an issue with my python, as I have that package installed. The rest of the script should be correct.
-
+#Here is URL here, too: Presigned URL: https://ds2002-mnk3kd.s3.amazonaws.com/kelp.jpeg?AWSAccessKeyId=ASIA5FTZEJ2LDOE77V5M&Signature=Z2Ph%2FKz2Mk%2BT3JwGSVrqjECAri8%3D&x-amz-security-token=FwoGZXIvYXdzEEoaDFS0z3GUPFwe7NvWmiLEAbHTKSc2uUUP%2F0BlPmh1V8DTtogilTy1SJ%2BQ6Nq9lv9JzNmSdJ8d4GA6AhmTeVQPR12WyLCCQy8LBOB%2FsfXhIHEWeDvk9riX7eCyaiSwssopp%2BYQGNTmgmzleYiClT%2F7Hq6U9zsrBoR4gT27gVd%2Bu3EHxYchn1WnTQQEiO%2FUwqdiQNcEMPNPgn2sPhGzAIYD%2Flq1V4Uv8KAd%2FwoUHvxfLOPOUZ1X9NNYjMD8YoBnXhT0we1phn7c%2B3tXAepnW4IZvodCBJQo7734rwYyLajz%2Fj%2FgMpI4xFaaHhrdv5b0mBsqz7M4XHms7c4EIK3p%2B6%2FxNjtQpNqT3VjMHA%3D%3D&Expires=1711758082
